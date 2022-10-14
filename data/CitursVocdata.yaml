@@ -1,0 +1,14 @@
+#train: citurs_myvoc/train.txt
+#val: citurs_myvoc/val.txt
+#test: citurs_myvoc/test.txt
+#train: Augciturs_myvoc/train.txt
+#val: Augciturs_myvoc/val.txt
+#test: Augciturs_myvoc/test.txt
+train: Blur_citurs_myvoc/train.txt
+val: Blur_citurs_myvoc/val.txt
+test: Blur_citurs_myvoc /test.txt
+# number of classes
+nc: 1
+
+# class names
+names: ["citurs"]
