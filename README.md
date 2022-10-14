@@ -25,8 +25,5 @@ python train.py --data CitursVocdata.yaml --cfg our.yaml --weights '' --batch-si
 
 #DataSet
 
-The dataset used in this project will be shared in the following link 
-
-
-Due to space constraints, please contact the author for the dataset used in this project 
+Due to transfer file limitations, please contact the author for the dataset used in this project 
 E-mail:chenpingfu273@163.com
